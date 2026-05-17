@@ -74,3 +74,10 @@ While the codebase is stable, procedural programming intentionally implements a 
 ---
 
 > *“Simplicity is prerequisite for reliability.”* — Edsger W. Dijkstra
+
+## Connect 
+
+[![GitHub](https://img.shields.io/badge/GitHub-basit--ebad-black?style=flat&logo=github)](https://github.com/basit-ebad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Basit_Ul_Ebad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/basit-ul-ebad-qureshi-10a62a293/)
+[![Email](https://img.shields.io/badge/Email-basit.ul.ibad@gmail.com-red?style=flat&logo=gmail)](mailto:basit.ul.ibad@gmail.com)
+
